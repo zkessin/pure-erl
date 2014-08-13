@@ -1,0 +1,12 @@
+{application, pure_erl,
+ [
+  {description, ""},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {mod, { pure_erl_app, []}},
+  {env, []}
+ ]}.
