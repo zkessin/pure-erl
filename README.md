@@ -19,3 +19,4 @@ a function and return true if it is pure and false otherwise, and
 Note that this does not provide the type of garantee that Haskell can
 provide but does make for a strong hint.
 
+*NOTE THIS CODE DOES NOT EXIST YET
